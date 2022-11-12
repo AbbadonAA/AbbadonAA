@@ -4,6 +4,8 @@
 - Technologies:
     - Python
     - Django
+    - FastAPI
+    - Flask
     - Django REST Framework
     - PostgreSQL
     - Git
@@ -15,9 +17,6 @@
     - Bootstrap
     - Unittest
 
-- I'm currently learning:
-    - Flask
-    - FastAPI
 
 - Contacts: 
     - Telegram: https://t.me/pushkarev_anton
